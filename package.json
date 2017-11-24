@@ -1,0 +1,34 @@
+{
+  "name": "sheep-flock",
+  "version": "0.0.1",
+  "description": "A distributed, high-definition renderer for Electric Sheep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apowers313/sheep-flock.git"
+  },
+  "bin": {
+    "sheepflock": "./bin/sheepflock.js"
+  },
+  "keywords": [
+    "electric",
+    "sheep",
+    "distributed",
+    "render",
+    "fractal",
+    "screensaver"
+  ],
+  "author": "Adam Powers <apowers@ato.ms>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apowers313/sheep-flock/issues"
+  },
+  "homepage": "https://github.com/apowers313/sheep-flock#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "gofast": "0.0.7"
+  }
+}

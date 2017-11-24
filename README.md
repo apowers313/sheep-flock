@@ -1,0 +1,2 @@
+# SheepFlock
+A distributed [Electric Sheep](http://community.electricsheep.org/) renderer based on [Electric Sheep HD](https://github.com/solarkennedy/electricsheep-hd) from @solarkennedy and [the work of Simon Detheridge](http://blog.highlyillogical.org/electric-sheep-in-hd/).
